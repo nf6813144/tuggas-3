@@ -1,0 +1,15 @@
+pola segitiga bintang
+
+https://drive.google.com/file/d/1bPcYGUcl60yRKDHEu8KxeqQgX2eE6MdN/view?usp=sharing
+MULAI
+SENT n=6
+ UNTUK i DARI 1 HIINGGA i LAKUKAN
+      JIKA j == 1 MAKA
+          CETAK"*"
+      SELAIN ITU
+           CETAK ".*"
+      SELESAI JIKA
+  SELESAI UNTUK
+   CETAK baris biru  //pindah ke baris baru s
+SELESAI UNTUK
+SELESAI
