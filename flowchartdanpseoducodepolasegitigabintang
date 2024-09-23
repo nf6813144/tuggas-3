@@ -1,0 +1,10 @@
+flowchart pola angka
+https://drive.google.com/file/d/1bPcYGUcl60yRKDHEu8KxeqQgX2eE6MdN/view?usp=sharing
+
+BEGIN
+I=1
+VAR i AS DOUBLE <=6
+ PRINT (i) start
+ PRINT newline
+ i=i+1
+END
